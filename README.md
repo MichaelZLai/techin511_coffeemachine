@@ -1,2 +1,3 @@
-# techin511_coffeemachine
-Coffee Machine arduino code final
+# TECHIN 511 - GIXpresso
+
+Smart coffee machine thats designed specifically for GIX!
